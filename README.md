@@ -1,6 +1,3 @@
-
----
-
 # 📚 Books API
 
 A simple RESTful API for managing books using **Spring Boot** and **MySQL**.
